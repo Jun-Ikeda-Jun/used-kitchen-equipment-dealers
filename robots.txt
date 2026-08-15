@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jun-ikeda-jun.github.io/used-kitchen-equipment-dealers/sitemap.xml
